@@ -1,0 +1,2 @@
+# Foot_Ulcer_Segmentation_Challenge
+Tareas
